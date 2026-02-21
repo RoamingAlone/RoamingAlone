@@ -22,7 +22,7 @@ I'm Franklin, currently working with Golang SkyCMS frameworks to operate and mai
 ## Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RoamingAlone/RoamingAlone/raw/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/RoamingAlone/RoamingAlone/raw/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/RoamingAlone/RoamingAlone/raw/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RoamingAlone/RoamingAlone/output/github-snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RoamingAlone/RoamingAlone/output/github-snake.svg?v=1" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RoamingAlone/RoamingAlone/output/github-snake.svg?v=1" />
 </picture>
