@@ -1,5 +1,5 @@
 ## About Me
-Hello, I'm Franklin, currently working with Golang SkyCMS frameworks to operate and maintain websites. Working through school to hopefully find a more fulfilling career. 
+Hello, I'm Franklin, currently working with Golang SkyCMS frameworks to operate and maintain websites. Working through school, learning Data Science to hopefully find a more fulfilling career. 
 
 ## Skills
 - HTML
@@ -17,8 +17,9 @@ Hello, I'm Franklin, currently working with Golang SkyCMS frameworks to operate 
   * Mathplotlabs
   * pandas
   * Data Visualization
- 
 
+## What I'm Curious About in Data Science
+How big of an impact I will actually make in the world.
 
 ## Contributions
 
