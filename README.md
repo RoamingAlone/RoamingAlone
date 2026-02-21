@@ -10,6 +10,7 @@ Hello, I'm Franklin, currently working with Golang SkyCMS frameworks to operate 
 
 ## Current Projects
 [Nightingale Rose Diagram](https://github.com/RoamingAlone/nightingale-rose)
+- [Live Page](https://roamingalone.github.io/nightingale-rose/)
 
 ## Currently Learning
 * Python
