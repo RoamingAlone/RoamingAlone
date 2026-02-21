@@ -1,16 +1,21 @@
-## Hi there 👋
+## ABout Me
+I'm Franklin, currently working with Golang SkyCMS frameworks to operate and maintain websites. Working through school to hopefully find a more fulfilling career. 
 
-<!--
-**RoamingAlone/RoamingAlone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- HTML
+- CSS
+- Javascript
+- Go
+- Python
 
-Here are some ideas to get you started:
+## Current Projects
+[Nightingale Rose Diagram](https://github.com/RoamingAlone/nightingale-rose)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+* Python
+  * Mathplotlabs
+  * pandas
+  * Data Visualization
+ 
+
+
